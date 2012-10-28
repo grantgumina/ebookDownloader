@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+.idea/
+
+>>>>>>> fa2a2789fd2d71f2507b553da71c17ab7ddd7e01
 *.gem
 *.rbc
 .bundle
@@ -15,4 +20,8 @@ tmp
 # YARD artifacts
 .yardoc
 _yardoc
+<<<<<<< HEAD
 doc/
+=======
+doc/
+>>>>>>> fa2a2789fd2d71f2507b553da71c17ab7ddd7e01
